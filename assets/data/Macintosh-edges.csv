@@ -1,0 +1,236 @@
+from,to
+Bill Atkinson,Jef Raskin
+Bill Atkinson,Steve Jobs
+Bill Atkinson,Susan Kare
+Jef Raskin,Steve Jobs
+Jef Raskin,Susan Kare
+Steve Jobs,Susan Kare
+Inspiration,MacPaint
+Inspiration,QuickDraw
+Inspiration,HyperCard
+MacPaint,QuickDraw
+MacPaint,HyperCard
+QuickDraw,HyperCard
+Inspiration,Bill Atkinson
+Inspiration,Jef Raskin
+Inspiration,Steve Jobs
+Inspiration,Susan Kare
+MacPaint,Bill Atkinson
+MacPaint,Jef Raskin
+MacPaint,Steve Jobs
+MacPaint,Susan Kare
+QuickDraw,Bill Atkinson
+QuickDraw,Jef Raskin
+QuickDraw,Steve Jobs
+QuickDraw,Susan Kare
+HyperCard,Bill Atkinson
+HyperCard,Jef Raskin
+HyperCard,Steve Jobs
+HyperCard,Susan Kare
+Burrell Smith,Andy Hertzfeld
+Burrell Smith,Wendell Sander
+Burrell Smith,Steve Wozniak
+Andy Hertzfeld,Wendell Sander
+Andy Hertzfeld,Steve Wozniak
+Wendell Sander,Steve Wozniak
+Origins,Personality
+Origins,Hardware Design
+Origins,Apple II
+Personality,Hardware Design
+Personality,Apple II
+Hardware Design,Apple II
+Origins,Burrell Smith
+Origins,Andy Hertzfeld
+Origins,Wendell Sander
+Origins,Steve Wozniak
+Personality,Burrell Smith
+Personality,Andy Hertzfeld
+Personality,Wendell Sander
+Personality,Steve Wozniak
+Hardware Design,Burrell Smith
+Hardware Design,Andy Hertzfeld
+Hardware Design,Wendell Sander
+Hardware Design,Steve Wozniak
+Apple II,Burrell Smith
+Apple II,Andy Hertzfeld
+Apple II,Wendell Sander
+Apple II,Steve Wozniak
+Andy Hertzfeld,Steve Wozniak
+Andy Hertzfeld,Victor Bull
+Steve Wozniak,Victor Bull
+Apple II,Prototypes
+Apple II,Printers
+Prototypes,Printers
+Apple II,Andy Hertzfeld
+Apple II,Steve Wozniak
+Apple II,Victor Bull
+Prototypes,Andy Hertzfeld
+Prototypes,Steve Wozniak
+Prototypes,Victor Bull
+Printers,Andy Hertzfeld
+Printers,Steve Wozniak
+Printers,Victor Bull
+Burrell Smith,Bill Atkinson
+Burrell Smith,Jef Raskin
+Burrell Smith,Steve Wozniak
+Bill Atkinson,Jef Raskin
+Bill Atkinson,Steve Wozniak
+Jef Raskin,Steve Wozniak
+Hardware Design,Technical
+Hardware Design,Apple II
+Technical,Apple II
+Hardware Design,Burrell Smith
+Hardware Design,Bill Atkinson
+Hardware Design,Jef Raskin
+Hardware Design,Steve Wozniak
+Apple II,Burrell Smith
+Apple II,Bill Atkinson
+Apple II,Jef Raskin
+Apple II,Steve Wozniak
+Technical,Burrell Smith
+Technical,Bill Atkinson
+Technical,Jef Raskin
+Technical,Steve Wozniak
+Burrell Smith,Andy Hertzfeld
+Burrell Smith,Jef Raskin
+Burrell Smith,Tom Whitney
+Burrell Smith,Bob Bishop
+Burrell Smith,Cliff Huston
+Burrell Smith,Dick Huston
+Andy Hertzfeld,Jef Raskin
+Andy Hertzfeld,Tom Whitney
+Andy Hertzfeld,Bob Bishop
+Andy Hertzfeld,Cliff Huston
+Andy Hertzfeld,Dick Huston
+Jef Raskin,Tom Whitney
+Jef Raskin,Bob Bishop
+Jef Raskin,Cliff Huston
+Jef Raskin,Dick Huston
+Tom Whitney,Bob Bishop
+Tom Whitney,Cliff Huston
+Tom Whitney,Dick Huston
+Bob Bishop,Cliff Huston
+Bob Bishop,Dick Huston
+Cliff Huston,Dick Huston
+Origins,Hardware Design
+Origins,Prototypes
+Hardware Design,Prototypes
+Origins,Burrell Smith
+Origins,Andy Hertzfeld
+Origins,Jef Raskin
+Origins,Tom Whitney
+Origins,Bob Bishop
+Origins,Cliff Huston
+Origins,Dick Huston
+Prototypes,Burrell Smith
+Prototypes,Andy Hertzfeld
+Prototypes,Jef Raskin
+Prototypes,Tom Whitney
+Prototypes,Bob Bishop
+Prototypes,Cliff Huston
+Prototypes,Dick Huston
+Hardware Design,Burrell Smith
+Hardware Design,Andy Hertzfeld
+Hardware Design,Jef Raskin
+Hardware Design,Tom Whitney
+Hardware Design,Bob Bishop
+Hardware Design,Cliff Huston
+Hardware Design,Dick Huston
+Burrell Smith,Tom Whitney
+Burrell Smith,Steve Wozniak
+Tom Whitney,Steve Wozniak
+Management,Personality
+Management,Burrell Smith
+Management,Tom Whitney
+Management,Steve Wozniak
+Personality,Burrell Smith
+Personality,Tom Whitney
+Personality,Steve Wozniak
+Bud Tribble,Steve Jobs
+Bud Tribble,Jef Raskin
+Bud Tribble,Bill Atkinson
+Bud Tribble,Rod Holt
+Bud Tribble,Burrell Smith
+Bud Tribble,Joanna Hoffman
+Bud Tribble,Brian Howard
+Bud Tribble,Steve Wozniak
+Bud Tribble,Mike Scott
+Bud Tribble,Mike Markkula
+Bud Tribble,Apple Spirit
+Bud Tribble,Origins
+Bud Tribble,Management
+Bud Tribble,Buildings
+Steve Jobs,Bill Atkinson
+Steve Jobs,Rod Holt
+Steve Jobs,Burrell Smith
+Steve Jobs,Joanna Hoffman
+Steve Jobs,Brian Howard
+Steve Jobs,Steve Wozniak
+Steve Jobs,Mike Scott
+Steve Jobs,Mike Markkula
+Steve Jobs,Apple Spirit
+Steve Jobs,Origins
+Steve Jobs,Management
+Steve Jobs,Buildings
+Bill Atkinson,Rod Holt
+Bill Atkinson,Burrell Smith
+Bill Atkinson,Joanna Hoffman
+Bill Atkinson,Brian Howard
+Bill Atkinson,Steve Wozniak
+Bill Atkinson,Mike Scott
+Bill Atkinson,Mike Markkula
+Bill Atkinson,Apple Spirit
+Bill Atkinson,Origins
+Bill Atkinson,Management
+Bill Atkinson,Buildings
+Rod Holt,Burrell Smith
+Rod Holt,Joanna Hoffman
+Rod Holt,Brian Howard
+Rod Holt,Steve Wozniak
+Rod Holt,Mike Scott
+Rod Holt,Mike Markkula
+Rod Holt,Apple Spirit
+Rod Holt,Origins
+Rod Holt,Management
+Rod Holt,Buildings
+Burrell Smith,Joanna Hoffman
+Burrell Smith,Brian Howard
+Burrell Smith,Steve Wozniak
+Burrell Smith,Mike Scott
+Burrell Smith,Mike Markkula
+Burrell Smith,Apple Spirit
+Burrell Smith,Origins
+Burrell Smith,Management
+Burrell Smith,Buildings
+Joanna Hoffman,Brian Howard
+Joanna Hoffman,Steve Wozniak
+Joanna Hoffman,Mike Scott
+Joanna Hoffman,Mike Markkula
+Joanna Hoffman,Apple Spirit
+Joanna Hoffman,Origins
+Joanna Hoffman,Management
+Joanna Hoffman,Buildings
+Brian Howard,Steve Wozniak
+Brian Howard,Mike Scott
+Brian Howard,Mike Markkula
+Brian Howard,Apple Spirit
+Brian Howard,Origins
+Brian Howard,Management
+Brian Howard,Buildings
+Steve Wozniak,Mike Scott
+Steve Wozniak,Mike Markkula
+Steve Wozniak,Apple Spirit
+Steve Wozniak,Origins
+Steve Wozniak,Management
+Steve Wozniak,Buildings
+Mike Scott,Mike Markkula
+Mike Scott,Apple Spirit
+Mike Scott,Origins
+Mike Scott,Management
+Mike Scott,Buildings
+Apple Spirit,Origins
+Apple Spirit,Management
+Apple Spirit,Buildings
+Origins,Management
+Origins,Buildings
+Management,Buildings

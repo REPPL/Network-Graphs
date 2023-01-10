@@ -1,0 +1,236 @@
+from,to,story,month,year
+Bill Atkinson,Jef Raskin,Joining Apple Computer,April,1978
+Bill Atkinson,Steve Jobs,Joining Apple Computer,April,1978
+Bill Atkinson,Susan Kare,Joining Apple Computer,April,1978
+Jef Raskin,Steve Jobs,Joining Apple Computer,April,1978
+Jef Raskin,Susan Kare,Joining Apple Computer,April,1978
+Steve Jobs,Susan Kare,Joining Apple Computer,April,1978
+Inspiration,MacPaint,Joining Apple Computer,April,1978
+Inspiration,QuickDraw,Joining Apple Computer,April,1978
+Inspiration,HyperCard,Joining Apple Computer,April,1978
+MacPaint,QuickDraw,Joining Apple Computer,April,1978
+MacPaint,HyperCard,Joining Apple Computer,April,1978
+QuickDraw,HyperCard,Joining Apple Computer,April,1978
+Inspiration,Bill Atkinson,Joining Apple Computer,April,1978
+Inspiration,Jef Raskin,Joining Apple Computer,April,1978
+Inspiration,Steve Jobs,Joining Apple Computer,April,1978
+Inspiration,Susan Kare,Joining Apple Computer,April,1978
+MacPaint,Bill Atkinson,Joining Apple Computer,April,1978
+MacPaint,Jef Raskin,Joining Apple Computer,April,1978
+MacPaint,Steve Jobs,Joining Apple Computer,April,1978
+MacPaint,Susan Kare,Joining Apple Computer,April,1978
+QuickDraw,Bill Atkinson,Joining Apple Computer,April,1978
+QuickDraw,Jef Raskin,Joining Apple Computer,April,1978
+QuickDraw,Steve Jobs,Joining Apple Computer,April,1978
+QuickDraw,Susan Kare,Joining Apple Computer,April,1978
+HyperCard,Bill Atkinson,Joining Apple Computer,April,1978
+HyperCard,Jef Raskin,Joining Apple Computer,April,1978
+HyperCard,Steve Jobs,Joining Apple Computer,April,1978
+HyperCard,Susan Kare,Joining Apple Computer,April,1978
+Burrell Smith,Andy Hertzfeld,I'll Be Your Best Friend,August,1979
+Burrell Smith,Wendell Sander,I'll Be Your Best Friend,August,1979
+Burrell Smith,Steve Wozniak,I'll Be Your Best Friend,August,1979
+Andy Hertzfeld,Wendell Sander,I'll Be Your Best Friend,August,1979
+Andy Hertzfeld,Steve Wozniak,I'll Be Your Best Friend,August,1979
+Wendell Sander,Steve Wozniak,I'll Be Your Best Friend,August,1979
+Origins,Personality,I'll Be Your Best Friend,August,1979
+Origins,Hardware Design,I'll Be Your Best Friend,August,1979
+Origins,Apple II,I'll Be Your Best Friend,August,1979
+Personality,Hardware Design,I'll Be Your Best Friend,August,1979
+Personality,Apple II,I'll Be Your Best Friend,August,1979
+Hardware Design,Apple II,I'll Be Your Best Friend,August,1979
+Origins,Burrell Smith,I'll Be Your Best Friend,August,1979
+Origins,Andy Hertzfeld,I'll Be Your Best Friend,August,1979
+Origins,Wendell Sander,I'll Be Your Best Friend,August,1979
+Origins,Steve Wozniak,I'll Be Your Best Friend,August,1979
+Personality,Burrell Smith,I'll Be Your Best Friend,August,1979
+Personality,Andy Hertzfeld,I'll Be Your Best Friend,August,1979
+Personality,Wendell Sander,I'll Be Your Best Friend,August,1979
+Personality,Steve Wozniak,I'll Be Your Best Friend,August,1979
+Hardware Design,Burrell Smith,I'll Be Your Best Friend,August,1979
+Hardware Design,Andy Hertzfeld,I'll Be Your Best Friend,August,1979
+Hardware Design,Wendell Sander,I'll Be Your Best Friend,August,1979
+Hardware Design,Steve Wozniak,I'll Be Your Best Friend,August,1979
+Apple II,Burrell Smith,I'll Be Your Best Friend,August,1979
+Apple II,Andy Hertzfeld,I'll Be Your Best Friend,August,1979
+Apple II,Wendell Sander,I'll Be Your Best Friend,August,1979
+Apple II,Steve Wozniak,I'll Be Your Best Friend,August,1979
+Andy Hertzfeld,Steve Wozniak,What Hath Woz Wrought,September,1979
+Andy Hertzfeld,Victor Bull,What Hath Woz Wrought,September,1979
+Steve Wozniak,Victor Bull,What Hath Woz Wrought,September,1979
+Apple II,Prototypes,What Hath Woz Wrought,September,1979
+Apple II,Printers,What Hath Woz Wrought,September,1979
+Prototypes,Printers,What Hath Woz Wrought,September,1979
+Apple II,Andy Hertzfeld,What Hath Woz Wrought,September,1979
+Apple II,Steve Wozniak,What Hath Woz Wrought,September,1979
+Apple II,Victor Bull,What Hath Woz Wrought,September,1979
+Prototypes,Andy Hertzfeld,What Hath Woz Wrought,September,1979
+Prototypes,Steve Wozniak,What Hath Woz Wrought,September,1979
+Prototypes,Victor Bull,What Hath Woz Wrought,September,1979
+Printers,Andy Hertzfeld,What Hath Woz Wrought,September,1979
+Printers,Steve Wozniak,What Hath Woz Wrought,September,1979
+Printers,Victor Bull,What Hath Woz Wrought,September,1979
+Burrell Smith,Bill Atkinson,We'll See About That,November,1979
+Burrell Smith,Jef Raskin,We'll See About That,November,1979
+Burrell Smith,Steve Wozniak,We'll See About That,November,1979
+Bill Atkinson,Jef Raskin,We'll See About That,November,1979
+Bill Atkinson,Steve Wozniak,We'll See About That,November,1979
+Jef Raskin,Steve Wozniak,We'll See About That,November,1979
+Hardware Design,Technical,We'll See About That,November,1979
+Hardware Design,Apple II,We'll See About That,November,1979
+Technical,Apple II,We'll See About That,November,1979
+Hardware Design,Burrell Smith,We'll See About That,November,1979
+Hardware Design,Bill Atkinson,We'll See About That,November,1979
+Hardware Design,Jef Raskin,We'll See About That,November,1979
+Hardware Design,Steve Wozniak,We'll See About That,November,1979
+Apple II,Burrell Smith,We'll See About That,November,1979
+Apple II,Bill Atkinson,We'll See About That,November,1979
+Apple II,Jef Raskin,We'll See About That,November,1979
+Apple II,Steve Wozniak,We'll See About That,November,1979
+Technical,Burrell Smith,We'll See About That,November,1979
+Technical,Bill Atkinson,We'll See About That,November,1979
+Technical,Jef Raskin,We'll See About That,November,1979
+Technical,Steve Wozniak,We'll See About That,November,1979
+Burrell Smith,Andy Hertzfeld,Scrooge McDuck,February,1980
+Burrell Smith,Jef Raskin,Scrooge McDuck,February,1980
+Burrell Smith,Tom Whitney,Scrooge McDuck,February,1980
+Burrell Smith,Bob Bishop,Scrooge McDuck,February,1980
+Burrell Smith,Cliff Huston,Scrooge McDuck,February,1980
+Burrell Smith,Dick Huston,Scrooge McDuck,February,1980
+Andy Hertzfeld,Jef Raskin,Scrooge McDuck,February,1980
+Andy Hertzfeld,Tom Whitney,Scrooge McDuck,February,1980
+Andy Hertzfeld,Bob Bishop,Scrooge McDuck,February,1980
+Andy Hertzfeld,Cliff Huston,Scrooge McDuck,February,1980
+Andy Hertzfeld,Dick Huston,Scrooge McDuck,February,1980
+Jef Raskin,Tom Whitney,Scrooge McDuck,February,1980
+Jef Raskin,Bob Bishop,Scrooge McDuck,February,1980
+Jef Raskin,Cliff Huston,Scrooge McDuck,February,1980
+Jef Raskin,Dick Huston,Scrooge McDuck,February,1980
+Tom Whitney,Bob Bishop,Scrooge McDuck,February,1980
+Tom Whitney,Cliff Huston,Scrooge McDuck,February,1980
+Tom Whitney,Dick Huston,Scrooge McDuck,February,1980
+Bob Bishop,Cliff Huston,Scrooge McDuck,February,1980
+Bob Bishop,Dick Huston,Scrooge McDuck,February,1980
+Cliff Huston,Dick Huston,Scrooge McDuck,February,1980
+Origins,Hardware Design,Scrooge McDuck,February,1980
+Origins,Prototypes,Scrooge McDuck,February,1980
+Hardware Design,Prototypes,Scrooge McDuck,February,1980
+Origins,Burrell Smith,Scrooge McDuck,February,1980
+Origins,Andy Hertzfeld,Scrooge McDuck,February,1980
+Origins,Jef Raskin,Scrooge McDuck,February,1980
+Origins,Tom Whitney,Scrooge McDuck,February,1980
+Origins,Bob Bishop,Scrooge McDuck,February,1980
+Origins,Cliff Huston,Scrooge McDuck,February,1980
+Origins,Dick Huston,Scrooge McDuck,February,1980
+Prototypes,Burrell Smith,Scrooge McDuck,February,1980
+Prototypes,Andy Hertzfeld,Scrooge McDuck,February,1980
+Prototypes,Jef Raskin,Scrooge McDuck,February,1980
+Prototypes,Tom Whitney,Scrooge McDuck,February,1980
+Prototypes,Bob Bishop,Scrooge McDuck,February,1980
+Prototypes,Cliff Huston,Scrooge McDuck,February,1980
+Prototypes,Dick Huston,Scrooge McDuck,February,1980
+Hardware Design,Burrell Smith,Scrooge McDuck,February,1980
+Hardware Design,Andy Hertzfeld,Scrooge McDuck,February,1980
+Hardware Design,Jef Raskin,Scrooge McDuck,February,1980
+Hardware Design,Tom Whitney,Scrooge McDuck,February,1980
+Hardware Design,Bob Bishop,Scrooge McDuck,February,1980
+Hardware Design,Cliff Huston,Scrooge McDuck,February,1980
+Hardware Design,Dick Huston,Scrooge McDuck,February,1980
+Burrell Smith,Tom Whitney,It's The Moustache That Matters,September,1980
+Burrell Smith,Steve Wozniak,It's The Moustache That Matters,September,1980
+Tom Whitney,Steve Wozniak,It's The Moustache That Matters,September,1980
+Management,Personality,It's The Moustache That Matters,September,1980
+Management,Burrell Smith,It's The Moustache That Matters,September,1980
+Management,Tom Whitney,It's The Moustache That Matters,September,1980
+Management,Steve Wozniak,It's The Moustache That Matters,September,1980
+Personality,Burrell Smith,It's The Moustache That Matters,September,1980
+Personality,Tom Whitney,It's The Moustache That Matters,September,1980
+Personality,Steve Wozniak,It's The Moustache That Matters,September,1980
+Bud Tribble,Steve Jobs,Good Earth,October,1980
+Bud Tribble,Jef Raskin,Good Earth,October,1980
+Bud Tribble,Bill Atkinson,Good Earth,October,1980
+Bud Tribble,Rod Holt,Good Earth,October,1980
+Bud Tribble,Burrell Smith,Good Earth,October,1980
+Bud Tribble,Joanna Hoffman,Good Earth,October,1980
+Bud Tribble,Brian Howard,Good Earth,October,1980
+Bud Tribble,Steve Wozniak,Good Earth,October,1980
+Bud Tribble,Mike Scott,Good Earth,October,1980
+Bud Tribble,Mike Markkula,Good Earth,October,1980
+Bud Tribble,Apple Spirit,Good Earth,October,1980
+Bud Tribble,Origins,Good Earth,October,1980
+Bud Tribble,Management,Good Earth,October,1980
+Bud Tribble,Buildings,Good Earth,October,1980
+Steve Jobs,Bill Atkinson,Good Earth,October,1980
+Steve Jobs,Rod Holt,Good Earth,October,1980
+Steve Jobs,Burrell Smith,Good Earth,October,1980
+Steve Jobs,Joanna Hoffman,Good Earth,October,1980
+Steve Jobs,Brian Howard,Good Earth,October,1980
+Steve Jobs,Steve Wozniak,Good Earth,October,1980
+Steve Jobs,Mike Scott,Good Earth,October,1980
+Steve Jobs,Mike Markkula,Good Earth,October,1980
+Steve Jobs,Apple Spirit,Good Earth,October,1980
+Steve Jobs,Origins,Good Earth,October,1980
+Steve Jobs,Management,Good Earth,October,1980
+Steve Jobs,Buildings,Good Earth,October,1980
+Bill Atkinson,Rod Holt,Good Earth,October,1980
+Bill Atkinson,Burrell Smith,Good Earth,October,1980
+Bill Atkinson,Joanna Hoffman,Good Earth,October,1980
+Bill Atkinson,Brian Howard,Good Earth,October,1980
+Bill Atkinson,Steve Wozniak,Good Earth,October,1980
+Bill Atkinson,Mike Scott,Good Earth,October,1980
+Bill Atkinson,Mike Markkula,Good Earth,October,1980
+Bill Atkinson,Apple Spirit,Good Earth,October,1980
+Bill Atkinson,Origins,Good Earth,October,1980
+Bill Atkinson,Management,Good Earth,October,1980
+Bill Atkinson,Buildings,Good Earth,October,1980
+Rod Holt,Burrell Smith,Good Earth,October,1980
+Rod Holt,Joanna Hoffman,Good Earth,October,1980
+Rod Holt,Brian Howard,Good Earth,October,1980
+Rod Holt,Steve Wozniak,Good Earth,October,1980
+Rod Holt,Mike Scott,Good Earth,October,1980
+Rod Holt,Mike Markkula,Good Earth,October,1980
+Rod Holt,Apple Spirit,Good Earth,October,1980
+Rod Holt,Origins,Good Earth,October,1980
+Rod Holt,Management,Good Earth,October,1980
+Rod Holt,Buildings,Good Earth,October,1980
+Burrell Smith,Joanna Hoffman,Good Earth,October,1980
+Burrell Smith,Brian Howard,Good Earth,October,1980
+Burrell Smith,Steve Wozniak,Good Earth,October,1980
+Burrell Smith,Mike Scott,Good Earth,October,1980
+Burrell Smith,Mike Markkula,Good Earth,October,1980
+Burrell Smith,Apple Spirit,Good Earth,October,1980
+Burrell Smith,Origins,Good Earth,October,1980
+Burrell Smith,Management,Good Earth,October,1980
+Burrell Smith,Buildings,Good Earth,October,1980
+Joanna Hoffman,Brian Howard,Good Earth,October,1980
+Joanna Hoffman,Steve Wozniak,Good Earth,October,1980
+Joanna Hoffman,Mike Scott,Good Earth,October,1980
+Joanna Hoffman,Mike Markkula,Good Earth,October,1980
+Joanna Hoffman,Apple Spirit,Good Earth,October,1980
+Joanna Hoffman,Origins,Good Earth,October,1980
+Joanna Hoffman,Management,Good Earth,October,1980
+Joanna Hoffman,Buildings,Good Earth,October,1980
+Brian Howard,Steve Wozniak,Good Earth,October,1980
+Brian Howard,Mike Scott,Good Earth,October,1980
+Brian Howard,Mike Markkula,Good Earth,October,1980
+Brian Howard,Apple Spirit,Good Earth,October,1980
+Brian Howard,Origins,Good Earth,October,1980
+Brian Howard,Management,Good Earth,October,1980
+Brian Howard,Buildings,Good Earth,October,1980
+Steve Wozniak,Mike Scott,Good Earth,October,1980
+Steve Wozniak,Mike Markkula,Good Earth,October,1980
+Steve Wozniak,Apple Spirit,Good Earth,October,1980
+Steve Wozniak,Origins,Good Earth,October,1980
+Steve Wozniak,Management,Good Earth,October,1980
+Steve Wozniak,Buildings,Good Earth,October,1980
+Mike Scott,Mike Markkula,Good Earth,October,1980
+Mike Scott,Apple Spirit,Good Earth,October,1980
+Mike Scott,Origins,Good Earth,October,1980
+Mike Scott,Management,Good Earth,October,1980
+Mike Scott,Buildings,Good Earth,October,1980
+Apple Spirit,Origins,Good Earth,October,1980
+Apple Spirit,Management,Good Earth,October,1980
+Apple Spirit,Buildings,Good Earth,October,1980
+Origins,Management,Good Earth,October,1980
+Origins,Buildings,Good Earth,October,1980
+Management,Buildings,Good Earth,October,1980
